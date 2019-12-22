@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-site-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/personal-site-react/static/js/main.041ca8c6.chunk.js",
+    "main.js.map": "/personal-site-react/static/js/main.041ca8c6.chunk.js.map",
+    "runtime-main.js": "/personal-site-react/static/js/runtime-main.dd004c82.js",
+    "runtime-main.js.map": "/personal-site-react/static/js/runtime-main.dd004c82.js.map",
+    "static/js/2.7cb4199a.chunk.js": "/personal-site-react/static/js/2.7cb4199a.chunk.js",
+    "static/js/2.7cb4199a.chunk.js.map": "/personal-site-react/static/js/2.7cb4199a.chunk.js.map",
+    "index.html": "/personal-site-react/index.html",
+    "precache-manifest.ded878c0186bb90e151d042c11b8d06d.js": "/personal-site-react/precache-manifest.ded878c0186bb90e151d042c11b8d06d.js",
+    "service-worker.js": "/personal-site-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/personal-site-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7cb4199a.chunk.js.LICENSE": "/personal-site-react/static/js/2.7cb4199a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/personal-site-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd004c82.js",
+    "static/js/2.7cb4199a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.041ca8c6.chunk.js"
+  ]
+}

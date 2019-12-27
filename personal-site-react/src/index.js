@@ -1,10 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom'
+import { BrowserRouter } from 'react-router-dom';
 import './assets/index.css';
-import App from './App';
+import { App } from './App';
 import * as serviceWorker from './serviceWorker';
 
+/**
+ * Render the base application. Wrap it with BrowserRouter so 
+ * we can implement multiple routes
+ */
 ReactDOM.render(
     <BrowserRouter>
         <App />

@@ -6,4 +6,4 @@ const Technologies = () => {
     )
 }
 
-export default Technologies;
+export { Technologies };
